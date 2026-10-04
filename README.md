@@ -19,3 +19,11 @@ The project involved:
 I was responsible for preparing the initial project configuration and views, selecting the area used for the project, positioning base stations according to geographical conditions and expected traffic.
 
 Moreover, I coordinated task distribution within the team and contributed to the analysis and presentation of the final network design.
+
+## Project Preview
+
+![Geographical area](images/terrain.png)
+
+![Base station placement](images/base-stations.png)
+
+![Cells](images/cells.png)
