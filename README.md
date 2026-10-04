@@ -22,8 +22,14 @@ Moreover, I coordinated task distribution within the team and contributed to the
 
 ## Project Preview
 
+### Geographical Area
+
 ![Geographical area](images/terrain.png)
 
+### Base Station Placement
+
 ![Base station placement](images/base-stations.png)
+
+### Cellular Coverage
 
 ![Cells](images/cells.png)
